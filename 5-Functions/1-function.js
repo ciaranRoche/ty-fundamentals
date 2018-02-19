@@ -8,7 +8,7 @@ function reverseString(str){
   // Step 3. Use the join() method to join all elements of the array into a string
   var joinArray = reverseArray.join(""); 
   // Step 4. Return the reversed string
-  return joinArray; // "olleh"
+  return joinArray;
 }
 
 console.log(reverseString(name));
