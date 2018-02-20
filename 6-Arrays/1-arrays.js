@@ -3,8 +3,8 @@ var letters = ['a', 'b', 'c', 'd', 'e'];
 var conditions = [true, false, true, false, true];
 
 var shoppingList = [
-    "milk", 
-    "orange juice", 
+    "milk",
+    "orange juice",
     "bread"
 ];
 

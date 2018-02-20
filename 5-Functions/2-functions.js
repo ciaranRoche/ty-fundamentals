@@ -1,3 +1,7 @@
+//-------------------------
+// Calculating averages
+// Step 2: refactor
+//-------------------------
 
 //-------------------------
 // Calculate Sam's average

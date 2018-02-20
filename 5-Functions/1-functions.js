@@ -1,3 +1,8 @@
+//-------------------------
+// Calculating averages
+// Step 1: a quick solution
+//-------------------------
+
 // a list of sam's marks
 var samsMarks = [45, 52, 60, 67, 43]
 
