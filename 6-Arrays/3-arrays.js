@@ -37,3 +37,11 @@ console.log(cities[0])
 // The concat() method creates a new array by merging (concatenating) existing arrays.
 var newArray = names.concat(cities);
 console.log(newArray);
+
+// Using the forEach() to itterate over the array
+console.log("\nAll the cities are ->")
+cities.forEach(function(city){
+    console.log(city)
+});
+
+
